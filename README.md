@@ -1,29 +1,29 @@
-# 🐹 Go Playground
+# Go Playground
 
-## 🎉 Welcome  
+## Welcome  
 This repository is a space to experiment with **Go programming** and explore its unique features for building efficient, scalable applications. Whether you're a beginner learning the language or a seasoned developer testing ideas, this is the perfect sandbox for Go!
 
-## 🚀 About This Repo  
+## About This Repo  
 Here, you'll find:  
 - Practical tools and scripts showcasing Go's capabilities.  
 - Projects that emphasize simplicity, modularity, and efficiency.  
 - Code snippets designed for learning and experimentation.
 
-## 🔭 Current Projects  
+## Current Projects  
 
-### 🌡️ Celsius to Fahrenheit Converter  
+### Celsius to Fahrenheit Converter  
 - A simple Go program that converts temperatures between Celsius and Fahrenheit.  
 - Perfect for learning basic syntax, input/output, and mathematical operations in Go.
 
-### 📁 Log File Analysis Tool  
+### Log File Analysis Tool  
 - A tool designed to parse and analyze log files for patterns or errors.  
 - Demonstrates file handling and string manipulation in Go.  
 
-### 🌐 HTTP Server  
+### HTTP Server  
 - A basic HTTP server built with Go, showcasing web application mechanics.  
 - Includes features like request handling and dynamic responses.  
 
-## 📚 Go Learning Resources  
+## Go Learning Resources  
 
 ### Beginner-Friendly Tutorials  
 - [Go by Example](https://gobyexample.com/) - Great for beginners with hands-on code snippets.  
@@ -40,8 +40,8 @@ Here, you'll find:
 - [Gopher Slack](https://invite.slack.golangbridge.org/) - Connect with Go developers worldwide.  
 - [Stack Overflow: Go Questions](https://stackoverflow.com/questions/tagged/go) - Troubleshoot and learn from real-world challenges.
 
-## 💡 Contribution Guidelines  
+## Contribution Guidelines  
 Contributions are welcome! Feel free to create a pull request or open an issue to suggest enhancements.
 
-## 📫 Contact  
+## Contact  
 Got questions or suggestions? Reach out here or through [LinkedIn](https://www.linkedin.com/in/zachary-nicholas1341/)!
